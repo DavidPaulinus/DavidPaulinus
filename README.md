@@ -1,5 +1,4 @@
-# Hi there 👋
-# I'm Davi Paulino
+# Hi there 👋 I'm Davi Paulino
 ## Welcome to my GitHub profile
 ###### 😄 Pronouns: He/Him
 
@@ -11,6 +10,5 @@
 
 
 ## - 📫 How to reach me
-[](https://www.linkedin.com/in/davi-paulino-mota-abb66b245/)
-[](https://www.linkedin.com/in/davi-paulino-mota-abb66b245/)
+[linkedin](https://www.linkedin.com/in/davi-paulino-mota-abb66b245/)
 
