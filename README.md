@@ -1,5 +1,4 @@
 # Hi there 👋 I'm Davi Paulino
-###### :wink: Pronouns: He/Him
 ## Welcome to my GitHub profile
 
 - ✨ In my repository you'll find my study notes, projects, as well as projects I used to practice
